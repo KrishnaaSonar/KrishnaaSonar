@@ -12,10 +12,6 @@
 Right now, you won't find many repositories here — but that's because I'm still learning and building.<br>
 I’ll be uploading my beginner projects soon, so feel free to check back!
 
-### 📫 Let's Connect!
-- LinkedIn: www.linkedin.com/krishna-sonar
-- Instagram: www.instagram.com/krishna_s16
-
 ---
 
 *P.S. Everyone starts somewhere — this is my somewhere.*
