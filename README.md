@@ -7,15 +7,7 @@
 🌱 Currently working on: Flask, Pandas, WordPress and GitHub itself!<br>
 🔍 Interested in Cybersecurity tools, ethical hacking, and AI-powered apps<br>
 
-## 🚧 My GitHub is Under Construction
-
-Right now, you won't find many repositories here — but that's because I'm still learning and building.<br>
-I’ll be uploading my beginner projects soon, so feel free to check back!
-
 ---
-
-*P.S. Everyone starts somewhere — this is my somewhere.*
-
 
 ## Connect with me:
 <p align="left">
