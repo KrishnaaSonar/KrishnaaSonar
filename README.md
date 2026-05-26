@@ -4,7 +4,6 @@
 💻 Tech Enthusiast<br>
 🛠️ Exploring Python & Cybersecurity<br>
 📚 Learning by building simple and meaningful projects<br>
-🌱 Currently working on: Flask, WordPress, HTML, CSS & Javascript. <br>
 🔍 Interested in Cybersecurity tools, ethical hacking, and AI-powered apps<br>
 
 ---
