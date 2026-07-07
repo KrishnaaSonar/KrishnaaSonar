@@ -1,19 +1,88 @@
-# 👋 Hi, I'm Krishna
+<div align="center">
 
-🎓 Cybersecurity Student<br>
-💻 Tech Enthusiast<br>
-🛠️ Exploring Python & Cybersecurity<br>
-📚 Learning by building simple and meaningful projects<br>
-🔍 Interested in Cybersecurity tools, ethical hacking, and AI-powered apps<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Krishna%20Sonar&fontSize=52&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=58&descColor=A594F9" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A594F9&center=true&vCenter=true&width=650&lines=Security-Focused+Full+Stack+Developer;SOC+Threat+Detection+%7C+Vulnerability+Assessment;Building+Secure+Systems+that+Scale;Open+to+Intern+Roles" alt="Typing SVG" />
+</a>
+</div>
+
+<br/>
 
 ---
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/krishna-sonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-sonar" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna_s16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_s16" height="30" width="40" /></a>
-</p>
+## 🔹 About Me
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Security-focused full stack developer with hands-on experience building cybersecurity tools and web applications in **Python, Flask, and JavaScript**. I've built a SOC simulation dashboard, a phishing email detector, a network port scanner, and a Firebase-backed security awareness platform — each one built to apply real concepts in threat detection, vulnerability assessment, and secure application development rather than just study them.
 
+```yaml
+Focused On:   Cybersecurity Analysis · SOC Operations · Web Development
+Believes In:  Secure by design, not secure by patch
+```
+
+**🎯 Open To:**
+- Fresher / Internship roles in **Web Development, Cybersecurity**
+- Hands-on work involving **threat detection, vulnerability assessment, and secure application development**
+
+---
+
+## 🔹 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,c&theme=dark" />
+
+<br/>
+
+**Web Development**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,flask,react&theme=dark" />
+
+<br/>
+
+**Security Tools**
+<br/><br/>
+<img src="https://img.shields.io/badge/Nmap-6D28D9?style=flat-square&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-7C3AED?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-8B5CF6?style=flat-square&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-A594F9?style=flat-square&logo=ubuntu&logoColor=white"/>
+
+<br/>
+
+**Dev Tools & Platforms**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgresql&theme=dark" />
+
+</div>
+
+## 🔹 Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+
+</div>
+
+
+## 🔹 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishna-sonar/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/KrishnaaSonar"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Security is not a feature — it's the foundation everything else stands on."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
