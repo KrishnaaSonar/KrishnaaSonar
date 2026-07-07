@@ -62,7 +62,7 @@ Believes In:  Secure by design, not secure by patch
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+<a href="https://tryhackme.com/p/BitCipher"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 
 </div>
